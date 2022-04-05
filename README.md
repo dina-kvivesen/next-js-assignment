@@ -4,7 +4,7 @@
 
 Create either a new React or Next.js app in this repo.
 
-For the login functionality, use either a Wordpress installation with the <a href="https://wordpress.org/plugins/jwt-authentication-for-wp-rest-api/" target="_blank">JWT plugin from Module 3</a> installed, or a Strapi installation. Do not add either of these to your repo. Your API should remain a separate project. The markers will use their own installations when marking.
+For the login functionality, use a Wordpress installation with the <a href="https://wordpress.org/plugins/jwt-authentication-for-wp-rest-api/" target="_blank">JWT plugin from Module 3</a> installed. Do not add either of these to your repo. Your API should remain a separate project.
 
 You can use either a REST or GraphQL API for the API calls.
 
@@ -32,8 +32,6 @@ Find an API that returns at least:
 - a single item retrieved by a parameter (id, name, slug, etc)
 
 If you are using Next you can also hard-code json and return it from API routes created in `pages/api/*`.
-
-You can use your own Wordpress or Strapi or any other API that you have created for these calls but it must be publically hosted - it must not be running on your localhost.
 
 Display at least 2 properties from each result.
 
@@ -69,11 +67,6 @@ This page will simply display an "Admin" heading.
 
 - --
 
-**## Level 2**
-
-Add a favourite button/icon component to each result on your home page. Clicking this button will toggle the result in/out of a favourites array.
-
-Add a "/favourites" path to your routes. This page will display all the items currently in the favourites array.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
