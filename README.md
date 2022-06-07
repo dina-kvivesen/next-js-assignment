@@ -54,7 +54,7 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 If you want to test the login/admin panel you need to have your own local API.
-I used, and would reccomend using Local by Flywwheel.
+I used, and would reccomend using Local by Flywheel.
 
 [Local by Flywheel](https://localwp.com/)
 
