@@ -1,4 +1,4 @@
-** JS Frameworks Course Assignment
+**JS Frameworks Course Assignment
 
 <img width="555" alt="Skjermbilde 2022-06-07 kl  15 05 48" src="https://user-images.githubusercontent.com/71272716/172389051-1ba78582-50a7-4bf6-b327-9510ffb955b9.png">
 
