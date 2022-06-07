@@ -1,5 +1,8 @@
 **# JS Frameworks Course Assignment**
 
+<img width="555" alt="Skjermbilde 2022-06-07 kl  15 05 48" src="https://user-images.githubusercontent.com/71272716/172388268-9c3fca44-3a2e-4e84-b585-c2e0516e1e7f.png">
+
+
 **## Brief**
 
 Create either a new React or Next.js app in this repo.
