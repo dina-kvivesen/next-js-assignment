@@ -9,17 +9,19 @@ export default function Results(props) {
   return (
       <Layout>
         <Head />
-        <Heading content="Drinks" />
+        <Heading content="Cocktail recipes" />
 
         {props.drinks.drinks.map((drink) => {
           return (
+              <div className='wrapper'>
                 <a key={drink.idDrink} href={`detail/${drink.idDrink}`} >
                   <div className="card">
-                    <Image src={drink.strDrinkThumb} width="200" height="200" alt="My image"></Image>
+                    <Image className='image' src={drink.strDrinkThumb} width="200" height="200" alt="My image"></Image>
                     <h3>{drink.strDrink}</h3>
                     <p>{drink.strAlcoholic}</p>
                   </div> 
                 </a> 
+              </div>
           );
         })} 
       
